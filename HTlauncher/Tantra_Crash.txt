@@ -1,0 +1,7 @@
+CHTWindowManager::Load configuration file...
+CHTWindowManager::Finalize start
+CHTWindowManager::Finalize 1
+CHTWindowManager::Finalize 2
+CHTWindowManager::Finalize 3
+CHTWindowManager::Finalize 4
+CHTWindowManager::Finalize success!
